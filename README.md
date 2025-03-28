@@ -7,7 +7,7 @@ Comecei a carreira de Dev de uma forma bem interessante, com desafio e barreiras
 - Pagonxt(santander)
 - 🔭 buscando novos desafios
 
-<h3 align="center">Sou um aprendiz pois lidar com desenvolvimento sempre aprenderemos coisas novas</h3>
+<h3 align="center">Sou um aprendiz, pois lidar com desenvolvimento sempre aprenderemos coisas novas</h3>
 
 <h3 align="left">contato:</h3>
 <p align="left">
